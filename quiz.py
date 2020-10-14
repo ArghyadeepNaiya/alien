@@ -1,3 +1,5 @@
+
+@aithor Arnab Maiti Pulastya™ ® Inc 
 from tkinter import*
 r=Tk()
 r.geometry('720x720')
@@ -22,6 +24,7 @@ def start():
                 m4.pack()
                 
                 def q2():
+#editting in the style by Arnab maiti
                     def cans1():
                         m5=Label(r,text="OK don't start flying we are getting started,the next question is",font=('verdana',10))
                         m5.pack()
