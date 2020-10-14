@@ -1,4 +1,4 @@
-"""
+
 #@aithor Arnab Maiti Pulastya™ ® Inc 
 from tkinter import*
 r=Tk()
@@ -74,4 +74,3 @@ def start():
 b1=Button(r,text='PRESS HERE TO CONTINUE',command=start,font=('georgia',10),bg='light grey')
 b1.pack()
 mainloop()
-"""
