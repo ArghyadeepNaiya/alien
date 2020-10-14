@@ -1,5 +1,5 @@
 
-#@aithor Arnab Maiti Pulastya™ ® Inc 
+#@aithor Arghya, Arnab Maiti Pulastya™ ® Inc 
 from tkinter import*
 r=Tk()
 r.geometry('720x720')
